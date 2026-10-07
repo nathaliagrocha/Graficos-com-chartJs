@@ -1,2 +1,2 @@
 # Graficos-com-chartJs
-Tafera da faculdade, onde desenvolvi graficos utilizando a API ChartJs
+Criando uma página HTML utilizando a biblioteca Chart.JS, fazendo a criação de uma dashboard.
